@@ -15,8 +15,8 @@ class CongratsScreen extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             SizedBox(
-              width: 200, // Set the desired width
-              height: 200, // Set the desired height
+              width: 200,
+              height: 200,
               child: Image.asset("assets/1.png"),
             ),
             Text(
